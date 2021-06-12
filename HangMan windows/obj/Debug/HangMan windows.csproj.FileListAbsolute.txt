@@ -1,0 +1,10 @@
+E:\Visual Studio\HangMan windows\HangMan windows\bin\Debug\HangMan windows.exe.config
+E:\Visual Studio\HangMan windows\HangMan windows\bin\Debug\HangMan windows.exe
+E:\Visual Studio\HangMan windows\HangMan windows\bin\Debug\HangMan windows.pdb
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan windows.csprojAssemblyReference.cache
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan_windows.Form1.resources
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan_windows.Properties.Resources.resources
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan windows.csproj.GenerateResource.cache
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan windows.csproj.CoreCompileInputs.cache
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan windows.exe
+E:\Visual Studio\HangMan windows\HangMan windows\obj\Debug\HangMan windows.pdb
